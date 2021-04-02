@@ -1,4 +1,4 @@
-//Gráfico de columnas. Mi 1º gráfico
+// Gráfico de columnas. Mi 1º gráfico
 d3plus
   .viz()
   .container("#viz1")
